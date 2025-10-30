@@ -24,9 +24,8 @@ class TodoController
     public function create()
 {
     if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    
+        $activity = trim($_POST['activity']);
         $description = trim($_POST['description'] ?? '');
-
 
         if ($activity === '') {
             $_SESSION['flash'] = "Nama aktivitas tidak boleh kosong!";
@@ -41,6 +40,7 @@ class TodoController
     header("Location: index.php");
     exit;
 }
+
 
 
 

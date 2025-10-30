@@ -51,12 +51,13 @@ class TodoModel
         return pg_fetch_all($result) ?: [];
     }
 
-    public function createTodo($activity)
+    public function createTodo($activity, $description = '')
 {
-    $query = "INSERT INTO todo (activity, status, created_at, updated_at)
-              VALUES ($1, 0, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)";
+    $query = "INSERT INTO todo (activity, description, status, created_at, updated_at)
+              VALUES ($1, $2, 0, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)";
     return pg_query_params($this->conn, $query, [$activity, $description]);
 }
+
 
 
     public function updateTodo($id, $activity)
