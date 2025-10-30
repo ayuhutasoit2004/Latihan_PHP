@@ -1,0 +1,118 @@
+[28-Oct-2025 04:39:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method TodoModel::getStatistics() in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\controllers\TodoController.php:21
+Stack trace:
+#0 C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\public\index.php(20): TodoController->index()
+#1 {main}
+  thrown in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\controllers\TodoController.php on line 21
+[28-Oct-2025 04:43:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method TodoModel::getStatistics() in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\controllers\TodoController.php:33
+Stack trace:
+#0 C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\public\index.php(20): TodoController->index()
+#1 {main}
+  thrown in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\controllers\TodoController.php on line 33
+[28-Oct-2025 04:43:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method TodoModel::getStatistics() in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\controllers\TodoController.php:33
+Stack trace:
+#0 C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\public\index.php(20): TodoController->index()
+#1 {main}
+  thrown in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\controllers\TodoController.php on line 33
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Undefined variable $message in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 269
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 286
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 286
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 299
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 299
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 312
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 312
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 325
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 325
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 328
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 329
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 329
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 332
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 333
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 333
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 341
+[28-Oct-2025 04:44:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 341
+[28-Oct-2025 04:44:03 UTC] PHP Warning:  Undefined variable $search in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 351
+[28-Oct-2025 04:44:03 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 351
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Undefined variable $message in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 269
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 286
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 286
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 299
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 299
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 312
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 312
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 325
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 325
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 328
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 329
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 329
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 332
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 333
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 333
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 341
+[28-Oct-2025 04:44:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 341
+[28-Oct-2025 04:44:06 UTC] PHP Warning:  Undefined variable $search in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 351
+[28-Oct-2025 04:44:06 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 351
+[28-Oct-2025 04:44:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method TodoModel::getStatistics() in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\controllers\TodoController.php:21
+Stack trace:
+#0 C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\public\index.php(20): TodoController->index()
+#1 {main}
+  thrown in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\controllers\TodoController.php on line 21
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Undefined variable $message in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 269
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 286
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 286
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 299
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 299
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 312
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 312
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 325
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 325
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 328
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 329
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 329
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 332
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 333
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 333
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 341
+[28-Oct-2025 04:45:24 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 341
+[28-Oct-2025 04:45:24 UTC] PHP Warning:  Undefined variable $search in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 351
+[28-Oct-2025 04:45:24 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 351
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined array key "activity" in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\controllers\TodoController.php on line 16
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  pg_query_params(): Query failed: ERROR:  null value in column &quot;title&quot; of relation &quot;todo&quot; violates not-null constraint
+DETAIL:  Failing row contains (8, null, null, null, 0, 0, 2025-10-28 11:45:28.28676+07, 2025-10-28 11:45:28.28676+07). in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\models\TodoModel.php on line 34
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined variable $message in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 269
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 286
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 286
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 299
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 299
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 312
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 312
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 325
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 325
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 328
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 329
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 329
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 332
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 333
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 333
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 341
+[28-Oct-2025 04:45:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 341
+[28-Oct-2025 04:45:28 UTC] PHP Warning:  Undefined variable $search in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 351
+[28-Oct-2025 04:45:28 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 351
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Undefined variable $message in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 269
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 286
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 286
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 299
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 299
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 312
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 312
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 325
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 325
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 328
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 329
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 329
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 332
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Undefined variable $stats in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 333
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 333
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Undefined variable $filter in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 341
+[28-Oct-2025 04:47:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 341
+[28-Oct-2025 04:47:52 UTC] PHP Warning:  Undefined variable $search in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 351
+[28-Oct-2025 04:47:52 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Users\hp\Documents\Semester 5\Pabwe\Latihan_PHP\views\TodoView.php on line 351
